@@ -11,4 +11,5 @@
 - [Deliverable 01 – Paradigm Justification Statement](./01_Paradigm_Justification/)
 - [Deliverable 02 – Method Fit Matrix](./02_Method_Fit_Matrix/)
 - [Deliverable 03 – Research Protocol](./03_Research_Protocol/)
+  
 This repository contains the weekly deliverables developed throughout the course. New deliverables will be added progressively during the semester.
