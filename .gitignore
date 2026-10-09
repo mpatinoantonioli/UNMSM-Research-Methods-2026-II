@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+05_Reproducible_ML_Pipeline/mlflow.db
+05_Reproducible_ML_Pipeline/mlruns/
+.ipynb_checkpoints/
