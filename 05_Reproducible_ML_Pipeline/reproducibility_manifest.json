@@ -1,0 +1,19 @@
+{
+  "student": "Miguel \u00c1ngel Pati\u00f1o Antonioli",
+  "reference_seed": 42,
+  "seeds": [
+    7,
+    12,
+    21,
+    42,
+    101,
+    2026,
+    3407
+  ],
+  "data_md5": "7d389a2808d8bcf9c30b5933557cdbad",
+  "python": "3.13.16",
+  "scikit_learn": "1.6.1",
+  "mlflow": "3.17.0",
+  "headline_accuracy_mean": 0.9784172821434117,
+  "headline_accuracy_sd_across_seeds": 0.001945931521096962
+}
