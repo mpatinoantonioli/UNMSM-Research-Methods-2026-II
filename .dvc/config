@@ -1,0 +1,4 @@
+[core]
+    remote = d5drive
+['remote "d5drive"']
+    url = /content/drive/MyDrive/UNMSM_D5_DVC_REMOTE
