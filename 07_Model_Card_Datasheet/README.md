@@ -28,6 +28,10 @@ This is a **pre-implementation / pre-data-collection specification**. No partici
 ## Important interpretation
 The Wisconsin Breast Cancer analyses inside the course notebook are **educational lab exercises only**. They illustrate fair baselines, seed variance, ablation, significance, compute matching and leakage. They are not results from the doctoral AAC study.
 
+## Model Card Infographic
+
+![Model Card Infographic](Model_Card_Infographic.jpeg)
+
 ## Reproducibility target
 The documentation package is intended to let a reviewer understand what will be built, what data are planned, how the artifact will be evaluated, which uses are out of scope, which risks are anticipated, and which items must be finalized before human-data collection.
 
